@@ -1,0 +1,64 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background-color: #1C1C1C;
+    font-family: Karla;
+    
+}
+.conteiner{
+    
+    max-width: 550px;
+    height: 780px;
+    left: 642px;
+    top: 64px; 
+}
+.card{
+    background-color: #1F2937;
+    width: 80%;
+    height: 60%;
+    margin-left: 10%;
+    margin-top:15%;
+    padding-top: 118px;
+    padding-left: 52px
+}
+.titulo-blanco{
+    color: white;
+    padding: 0px;
+    margin: 0px;
+    
+}
+.titulo-verde{
+    color: #10B981;
+    padding: 0px;
+    margin: 0px;
+}
+.subtitulo{
+    color:#D5D4D8;
+}
+#boton{
+    background-color: #10B981;
+    width: 223px;
+    border-radius: 6px;
+    height: 42px;
+    color: white
+    
+
+}
+hr{
+    margin-top: 44px;
+}
+.button-pass{
+    margin-top: 42px;
+    width: 200px;
+    height: 39px;
+    background-color: #273549;
+    border: none;
+    border-radius: 6px;
+    color:#202B3C;  
+}
+.button-pass:hover{
+    background-color: #26303b; 
+}
+hr{
+  margin-left: 0px;
+}
